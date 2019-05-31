@@ -30,7 +30,7 @@ yum install redhat-lsb -y
 	Description:	CentOS Linux release 7.4.1708 (Core) 
 	Release:	7.4.1708
 	Codename:	Core
-https://github.com/YuanDdQiao/download/blob/master/linux/centos7.4.1708/ext3grep
+wget https://github.com/YuanDdQiao/download/blob/master/linux/centos7.4.1708/ext3grep
 
 ~]# lsb_release -a
 
